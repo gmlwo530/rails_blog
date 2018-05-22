@@ -1,24 +1,31 @@
+# UOS_LIKELION_RubyOnRails
+#LikeLion
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#### 서울시립대학교 멋쟁이사자처럼 루비 온 레일즈 기초 강의 커리큘럼
+앞으로 18시간 커리큘럼입니다.
 
+18시간이라는 짧은 시간에 하나의 사이트를 만드는 것이 목표인것 만큼, 이론적인 내용보다는 실용적인 내용에 초점을 맞추었습니다.
 
-Welcome to your Rails project on Cloud9 IDE!
+*스터디 목표* : 간단한 블로그 만들기
+*템플릿* : [Stanley Free Website Template | Free CSS Templates | Free CSS](http://www.free-css.com/free-css-templates/page202/stanley)
 
-To get started, just do the following:
+### CRUD
+*1주차* (5월 9일) : Scaffold란 숲을 보며 흐름 알기
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
+* GET, POST, DELETE, PATCH
+* MVC 패턴 알아보기
+* Model
+* create, show, index 직접구현
 
-Happy coding!
-The Cloud9 IDE team
+*2주차* (5월 16일) : CRUD 마스터와 모델 관계
 
+* update, destory 구현
+* 1:N 관계 글과 댓글
 
-## Support & Documentation
+*3주차* (5월 23일) : jquery의 꽃 AJAX
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+* 댓글을 AJAX로 구현
+
+*4주차* (5월 30일) : 서비스의 기본 회원가입
+
+* Devise gem
