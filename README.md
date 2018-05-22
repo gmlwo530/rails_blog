@@ -9,6 +9,14 @@
 *스터디 목표* : 간단한 블로그 만들기
 *템플릿* : [Stanley Free Website Template | Free CSS Templates | Free CSS](http://www.free-css.com/free-css-templates/page202/stanley)
 
+### 환경 세팅
+
+`bundle install`
+
+`rvm install 2.4.1`
+
+`rvm use 2.4.1 --default`
+
 ### CRUD
 *1주차* (5월 9일) : Scaffold란 숲을 보며 흐름 알기
 
